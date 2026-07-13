@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Eshasonawane/DSAJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eshasonawane/DSAJAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Eshasonawane/DSAJAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Eshasonawane/DSAJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
