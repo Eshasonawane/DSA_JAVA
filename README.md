@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Eshasonawane/DSAJAVA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Eshasonawane/DSAJAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Eshasonawane/DSAJAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Eshasonawane/DSAJAVA/tree/master/2540-minimum-common-value) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Eshasonawane/DSAJAVA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Eshasonawane/DSAJAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Eshasonawane/DSAJAVA/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2540-minimum-common-value](https://github.com/Eshasonawane/DSAJAVA/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
