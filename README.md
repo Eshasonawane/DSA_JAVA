@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Eshasonawane/DSAJAVA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Eshasonawane/DSAJAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Eshasonawane/DSAJAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Eshasonawane/DSAJAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Eshasonawane/DSAJAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/Eshasonawane/DSAJAVA/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
