@@ -12,7 +12,7 @@ class Solution {
 
             //calculate the maximum reach 
         maxReach=Math.max(maxReach,i+nums[i]);
-        if(maxReach>=nums.length-1)
+        if(maxReach==nums.length-1)
         {
             return true;
         }
