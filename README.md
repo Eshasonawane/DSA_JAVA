@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Eshasonawane/DSAJAVA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshasonawane/DSAJAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eshasonawane/DSAJAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Eshasonawane/DSAJAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0055-jump-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Eshasonawane/DSAJAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Eshasonawane/DSAJAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Eshasonawane/DSAJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
