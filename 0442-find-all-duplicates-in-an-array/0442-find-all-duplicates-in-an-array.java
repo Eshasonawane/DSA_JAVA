@@ -11,7 +11,7 @@ class Solution {
 
         for(int i=0;i<freq.length;i++)
         {
-            if(freq[i]>1)
+            if(freq[i]==2)
             {
                 ans.add(i);
             }
