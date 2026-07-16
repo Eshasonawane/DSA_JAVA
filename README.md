@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshasonawane/DSAJAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eshasonawane/DSAJAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshasonawane/DSAJAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Eshasonawane/DSAJAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshasonawane/DSAJAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/Eshasonawane/DSAJAVA/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshasonawane/DSAJAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshasonawane/DSAJAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshasonawane/DSAJAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Eshasonawane/DSAJAVA/tree/master/0054-spiral-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshasonawane/DSAJAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -131,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshasonawane/DSAJAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshasonawane/DSAJAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
