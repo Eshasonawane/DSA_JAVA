@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Eshasonawane/DSAJAVA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0090-subsets-ii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshasonawane/DSAJAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -159,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
