@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Eshasonawane/DSAJAVA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Eshasonawane/DSAJAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Eshasonawane/DSAJAVA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshasonawane/DSAJAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eshasonawane/DSAJAVA/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
