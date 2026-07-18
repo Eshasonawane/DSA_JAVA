@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Eshasonawane/DSAJAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Eshasonawane/DSAJAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Eshasonawane/DSAJAVA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshasonawane/DSAJAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Eshasonawane/DSAJAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Eshasonawane/DSAJAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eshasonawane/DSAJAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshasonawane/DSAJAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eshasonawane/DSAJAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshasonawane/DSAJAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
