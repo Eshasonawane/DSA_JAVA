@@ -3,7 +3,7 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
         int total=m*n;
-       // k=k%total;
+       k=k%total;
         int ans[][]=new int[m][n];
         for(int i=0;i<m;i++)
         {
