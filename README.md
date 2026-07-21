@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eshasonawane/DSAJAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Eshasonawane/DSAJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eshasonawane/DSAJAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Eshasonawane/DSAJAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0216-combination-sum-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Eshasonawane/DSAJAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
