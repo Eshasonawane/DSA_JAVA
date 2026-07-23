@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Eshasonawane/DSAJAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Eshasonawane/DSAJAVA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Eshasonawane/DSAJAVA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Eshasonawane/DSAJAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Eshasonawane/DSAJAVA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0055-jump-game) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eshasonawane/DSAJAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Eshasonawane/DSAJAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Eshasonawane/DSAJAVA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Eshasonawane/DSAJAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0216-combination-sum-iii) |
