@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Eshasonawane/DSAJAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Eshasonawane/DSAJAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Eshasonawane/DSAJAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Eshasonawane/DSAJAVA/tree/master/0048-rotate-image) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Eshasonawane/DSAJAVA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eshasonawane/DSAJAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Eshasonawane/DSAJAVA/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Eshasonawane/DSAJAVA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Eshasonawane/DSAJAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Eshasonawane/DSAJAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Eshasonawane/DSAJAVA/tree/master/0074-search-a-2d-matrix) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eshasonawane/DSAJAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Eshasonawane/DSAJAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Eshasonawane/DSAJAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Eshasonawane/DSAJAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Eshasonawane/DSAJAVA/tree/master/0051-n-queens) |
