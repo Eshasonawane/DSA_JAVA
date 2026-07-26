@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eshasonawane/DSAJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Eshasonawane/DSAJAVA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Eshasonawane/DSAJAVA/tree/master/1207-unique-number-of-occurrences) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Eshasonawane/DSAJAVA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eshasonawane/DSAJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Eshasonawane/DSAJAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Eshasonawane/DSAJAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Eshasonawane/DSAJAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eshasonawane/DSAJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eshasonawane/DSAJAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
