@@ -6,7 +6,6 @@ class Solution {
         {
             if(num>first)
             {
-                
                 second=first;
                 first=num;
             }else if(num>second)
