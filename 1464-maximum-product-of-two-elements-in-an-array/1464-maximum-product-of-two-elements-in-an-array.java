@@ -15,7 +15,6 @@ class Solution {
             }
            
         }
-        System.out.println(first+ ", "+second);
         return (first-1)*(second-1);
     }
 }
