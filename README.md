@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Eshasonawane/DSAJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Eshasonawane/DSAJAVA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/Eshasonawane/DSAJAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Eshasonawane/DSAJAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Eshasonawane/DSAJAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0055-jump-game) |
+| [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Eshasonawane/DSAJAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Eshasonawane/DSAJAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eshasonawane/DSAJAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eshasonawane/DSAJAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
