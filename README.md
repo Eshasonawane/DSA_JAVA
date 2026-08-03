@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Eshasonawane/DSAJAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Eshasonawane/DSAJAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eshasonawane/DSAJAVA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Eshasonawane/DSAJAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Eshasonawane/DSAJAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Eshasonawane/DSAJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eshasonawane/DSAJAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eshasonawane/DSAJAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eshasonawane/DSAJAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -236,4 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Eshasonawane/DSAJAVA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Eshasonawane/DSAJAVA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
